@@ -1,4 +1,4 @@
-# [blog.pavsidhu.com](https://blog.pavsidhu.com)
+# [theeconomicsocio.com](https://theeconomicsocio.com)
 
 > A place for me to write ✏️
 
@@ -6,4 +6,4 @@
 
 ## License
 
-MIT © [Pav Sidhu](https://pavsidhu.com)
+MIT © [Jennifer Pinto]
