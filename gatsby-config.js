@@ -1,7 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Pav Sidhu',
-    author: 'Pav Sidhu',
+    title: 'theeconomicsocio',
   },
   plugins: [
     {
