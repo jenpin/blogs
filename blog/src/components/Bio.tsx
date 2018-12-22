@@ -43,14 +43,13 @@ const Highlight = styled.span`
 
 const Bio = () => (
   <Container>
-    <Title>Hi, I'm Pav 👋</Title>
+    <Title>Hi, I'm Jen :heart:</Title>
     <Description>
-      I like to design and build <Highlight>web</Highlight>,{' '}
-      <Highlight>mobile</Highlight> and <Highlight>voice</Highlight> experiences
-      using code. I'm also a huge fan of <Highlight>Javascript</Highlight> and{' '}
-      <Highlight>React</Highlight>. I'm from <Highlight>Cardiff</Highlight> but
-      I'm currently studying at the{' '}
-      <Highlight>University of Birmingham</Highlight> in the United Kingdom.
+      Hello I am Jennifer .
+      The first impression I want you to have of me is that of a <Highlight>budget</Highlight>
+      traveller.
+      I work, O yes I do! But nothing beats the thrill of finding a bargain especially in a foreign country.
+      I migrated to Melbourne three years ago and Melbourne has taught me a very important lesson. The best things in life are indeed free!
     </Description>
   </Container>
 )
