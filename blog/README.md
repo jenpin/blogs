@@ -6,4 +6,4 @@
 
 ## License
 
-MIT © [Jennifer Pinto]
+MIT © [Jennifer Pinto]:bowtie:
